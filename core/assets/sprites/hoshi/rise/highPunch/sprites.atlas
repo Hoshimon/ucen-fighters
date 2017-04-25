@@ -1,0 +1,103 @@
+
+sprites.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ri210
+  rotate: false
+  xy: 2, 520
+  size: 274, 496
+  orig: 274, 496
+  offset: 0, 0
+  index: 5
+ri210
+  rotate: false
+  xy: 2, 45
+  size: 470, 473
+  orig: 470, 473
+  offset: 0, 0
+  index: 6
+ri210
+  rotate: false
+  xy: 474, 661
+  size: 474, 355
+  orig: 474, 355
+  offset: 0, 0
+  index: 7
+ri210
+  rotate: false
+  xy: 278, 655
+  size: 182, 361
+  orig: 182, 361
+  offset: 0, 0
+  index: 0
+ri210
+  rotate: false
+  xy: 474, 336
+  size: 298, 323
+  orig: 298, 323
+  offset: 0, 0
+  index: 9
+ri210
+  rotate: false
+  xy: 474, 2
+  size: 294, 332
+  orig: 294, 332
+  offset: 0, 0
+  index: 8
+ri210
+  rotate: false
+  xy: 770, 4
+  size: 202, 330
+  orig: 202, 330
+  offset: 0, 0
+  index: 4
+ri210
+  rotate: false
+  xy: 774, 340
+  size: 206, 319
+  orig: 206, 319
+  offset: 0, 0
+  index: 2
+
+sprites2.png
+size: 512,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ri205
+  rotate: false
+  xy: 2, 2
+  size: 176, 375
+  orig: 176, 375
+  offset: 0, 0
+  index: 6
+ri210
+  rotate: false
+  xy: 2, 689
+  size: 294, 328
+  orig: 294, 328
+  offset: 0, 0
+  index: 10
+ri210
+  rotate: false
+  xy: 2, 379
+  size: 256, 308
+  orig: 256, 308
+  offset: 0, 0
+  index: 11
+ri210
+  rotate: false
+  xy: 298, 698
+  size: 202, 319
+  orig: 202, 319
+  offset: 0, 0
+  index: 1
+ri210
+  rotate: false
+  xy: 180, 58
+  size: 202, 319
+  orig: 202, 319
+  offset: 0, 0
+  index: 3

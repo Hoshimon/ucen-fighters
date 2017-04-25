@@ -1,0 +1,48 @@
+
+sprites.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+idle_1_pidgeotto
+  rotate: false
+  xy: 2, 404
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+idle_2_pidgeotto
+  rotate: false
+  xy: 2, 2
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+idle_3_pidgeotto
+  rotate: false
+  xy: 304, 404
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+idle_4_pidgeotto
+  rotate: false
+  xy: 304, 2
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+idle_5_pidgeotto
+  rotate: false
+  xy: 606, 404
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+idle_6_pidgeotto
+  rotate: false
+  xy: 606, 2
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1

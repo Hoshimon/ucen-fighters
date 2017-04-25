@@ -1,0 +1,75 @@
+
+sprites.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+IMG
+  rotate: false
+  xy: 2, 404
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: 2141
+IMG
+  rotate: false
+  xy: 2, 2
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: 2142
+IMG
+  rotate: false
+  xy: 304, 404
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: 2143
+IMG
+  rotate: false
+  xy: 304, 2
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: 2144
+IMG
+  rotate: false
+  xy: 606, 404
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: 2145
+IMG
+  rotate: false
+  xy: 606, 2
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: 2146
+
+sprites2.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+IMG
+  rotate: false
+  xy: 2, 2
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: 2147
+IMG
+  rotate: false
+  xy: 304, 2
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: 2148
+IMG
+  rotate: false
+  xy: 606, 2
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: 2149

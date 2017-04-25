@@ -1,0 +1,69 @@
+
+sprites.png
+size: 512,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+idle jordan (1)
+  rotate: false
+  xy: 134, 7
+  size: 125, 270
+  orig: 125, 270
+  offset: 0, 0
+  index: -1
+idle jordan (2)
+  rotate: false
+  xy: 286, 290
+  size: 129, 270
+  orig: 129, 270
+  offset: 0, 0
+  index: -1
+idle jordan (3)
+  rotate: false
+  xy: 2, 2
+  size: 130, 275
+  orig: 130, 275
+  offset: 0, 0
+  index: -1
+idle jordan (4)
+  rotate: false
+  xy: 2, 2
+  size: 130, 275
+  orig: 130, 275
+  offset: 0, 0
+  index: -1
+idle jordan (5)
+  rotate: false
+  xy: 286, 562
+  size: 133, 268
+  orig: 133, 268
+  offset: 0, 0
+  index: -1
+idle jordan (6)
+  rotate: false
+  xy: 147, 289
+  size: 137, 267
+  orig: 137, 267
+  offset: 0, 0
+  index: -1
+idle jordan (7)
+  rotate: false
+  xy: 2, 279
+  size: 143, 273
+  orig: 143, 273
+  offset: 0, 0
+  index: -1
+idle jordan (8)
+  rotate: false
+  xy: 2, 554
+  size: 143, 276
+  orig: 143, 276
+  offset: 0, 0
+  index: -1
+idle jordan (9)
+  rotate: false
+  xy: 147, 558
+  size: 137, 272
+  orig: 137, 272
+  offset: 0, 0
+  index: -1

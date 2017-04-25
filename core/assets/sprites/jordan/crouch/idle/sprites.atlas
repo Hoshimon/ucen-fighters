@@ -1,0 +1,55 @@
+
+sprites.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+2010
+  rotate: false
+  xy: 156, 2
+  size: 144, 209
+  orig: 144, 209
+  offset: 0, 0
+  index: -1
+2011
+  rotate: false
+  xy: 446, 3
+  size: 139, 208
+  orig: 139, 208
+  offset: 0, 0
+  index: -1
+2012
+  rotate: false
+  xy: 717, 10
+  size: 125, 201
+  orig: 125, 201
+  offset: 0, 0
+  index: -1
+2013
+  rotate: false
+  xy: 844, 11
+  size: 124, 200
+  orig: 124, 200
+  offset: 0, 0
+  index: -1
+2014
+  rotate: false
+  xy: 587, 6
+  size: 128, 205
+  orig: 128, 205
+  offset: 0, 0
+  index: -1
+2034
+  rotate: false
+  xy: 302, 2
+  size: 142, 209
+  orig: 142, 209
+  offset: 0, 0
+  index: -1
+2035
+  rotate: false
+  xy: 2, 7
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
